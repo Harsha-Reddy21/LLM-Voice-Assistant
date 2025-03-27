@@ -5,3 +5,4 @@ numpy
 scipy
 gtts
 python-dotenv
+pyaudio

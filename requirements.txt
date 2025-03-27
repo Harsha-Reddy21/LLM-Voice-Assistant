@@ -1,0 +1,7 @@
+openai
+streamlit
+sounddevice
+numpy
+scipy
+gtts
+python-dotenv
